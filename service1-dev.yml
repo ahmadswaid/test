@@ -1,0 +1,4 @@
+message: "Hello, Service 1"
+spring:
+  application:
+    name: service1
